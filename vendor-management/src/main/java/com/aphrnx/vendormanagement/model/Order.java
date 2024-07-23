@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024 23. This project was created by Edford Jongwe.
+ * Copyright (c) {today:yyyy}. This project was created by Edford Jongwe.
  * Website: www.jongwe-edford.netlify.app
  * Git: /jongwe-edford
  * Instagram: /jongwe_edford
@@ -12,6 +12,7 @@ package com.aphrnx.vendormanagement.model;
 
 import java.time.Instant;
 import java.util.List;
+
 
 public class Order {
 	private String orderId;
